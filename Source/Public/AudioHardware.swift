@@ -6,7 +6,7 @@
 //  Copyright © 2015 9Labs. All rights reserved.
 //
 
-import CoreAudio.AudioHardwareBase
+import CoreAudio
 import Foundation
 
 /// This class allows subscribing to hardware-related audio notifications.

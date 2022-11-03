@@ -6,7 +6,7 @@
 //  Copyright © 2016 9Labs. All rights reserved.
 //
 
-import CoreAudio.AudioHardwareBase
+import CoreAudio
 import Foundation
 
 private let logDateFormatter: DateFormatter = {

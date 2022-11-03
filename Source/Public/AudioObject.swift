@@ -6,7 +6,7 @@
 //  Copyright © 2016 9Labs. All rights reserved.
 //
 
-import CoreAudio.AudioHardwareBase
+import CoreAudio
 import Foundation
 
 /// This class represents a Core Audio object currently present in the system. In Core Audio,
